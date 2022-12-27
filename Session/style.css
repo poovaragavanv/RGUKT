@@ -1,0 +1,50 @@
+img
+{
+    height: 150px;
+    width: 150px;
+    margin-top: 24pt;
+    margin-left: 24pt;
+    border-color: crimson;
+    border-style: double;
+    border-radius: 10pt;
+    padding: 20pt 24pt 25pt 16pt;
+}
+.class1
+{
+    color: rgb(163, 58, 173);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12pt;
+    font-style: italic;
+    word-spacing: 12pt;
+    letter-spacing: 2pt;
+}
+#h_id1
+{
+    font-size: 28pt;
+    color: aqua;
+    font-style: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#h_id2
+{
+    color: chocolate;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12pt;
+    font-style: italic;
+    word-spacing: 2pt;
+    letter-spacing: 1pt;
+
+}
+a:visited
+{
+    color: rgb(227, 13, 13);
+}
+a:hover
+{
+    color: rgb(27, 193, 124);
+}
+ol{
+    start
+    list-style:disc;
+
+}
